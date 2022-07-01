@@ -15,7 +15,7 @@ name:'home',
 components:{list,headerbar},
 data() {
 return {
-
+  
 }
 },
 created() {
